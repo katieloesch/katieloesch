@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### `> some technologies I like working with`
+<p>I'm Katie. I'm a full-stack developer with a background in biomedical science, currently based in London. I'm passionate about designing user-centric applications and building purpose-driven solutions. I'm always looking for opportunities where I can contribute, learn and grow.</p>
 
-`front-end`
+---
+
+#### Some technologies I like working with
+
+`> front-end`
 
 <img align='left' alt='javascript' height='30px' style='padding-right:25px' src='./assets/icons_skills/javascript_color.svg'/>
 
@@ -33,9 +37,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
----
-
-`back-end`
+`> back-end`
 
 <img align='left' alt='nodeJS' height='30px' style='padding-right:25px' src='./assets/icons_skills/nodejs_color.svg'/>
 
@@ -47,9 +49,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
----
-
-`databases + data management`
+`> databases + data management`
 
 <img align='left' alt='mongoose' height='38px' style='padding-right:15px' src='./assets/icons_skills/mongoose_color.svg'/>
 
@@ -63,9 +63,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
----
-
-`development tools`
+`> development tools`
 
 <img align='left' alt='git' height='30px' style='padding-right:25px' src='./assets/icons_skills/git_color.svg'/>
 
