@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 👩🏻‍🦰
 
 <!--
 **katieloesch/katieloesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,26 @@ Here are some ideas to get you started:
 -->
 
 <p>I'm Katie. I'm a full-stack developer with a background in biomedical science, currently based in London. I'm passionate about designing user-centric applications and building purpose-driven solutions. I'm always looking for opportunities where I can contribute, learn and grow.</p>
+<br>
+
+<img  height='35px' align='left' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img  height='37px' align='left' style='padding-right:25px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+
+<img height='37px' align='left' style='padding-right:25px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+
+<img align='left' alt='bootstrap' height='30px' style='padding-right:25px; padding-top:1px;' src='./assets/icons_skills/bootstrap_color.svg'/>
+
+<img align='left' alt='sass' height='29px' style='padding-right:20px' src='./assets/icons_skills/sass_color.svg'/>
+
+<img height='30px' align='left' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
+              
+<br><br>
 
 ---
 
-#### Some technologies I like working with
+#### 👩‍💻 Some technologies I like working with
 
 `> front-end`
 
@@ -31,7 +47,7 @@ Here are some ideas to get you started:
 
 <img align='left' alt='bootstrap' height='28px' style='padding-right:25px' src='./assets/icons_skills/bootstrap_color.svg'/>
 
-<img align='left' alt='sass' height='30px' style='padding-right:15px' src='./assets/icons_skills/sass_color.svg'/>
+<img align='left' alt='sass' height='30px' style='padding-right:13px' src='./assets/icons_skills/sass_color.svg'/>
 
 <img align='left' alt='tailwind' height='32px' style='padding-right:15px' src='./assets/icons_skills/tailwind_color.svg'/>
 
