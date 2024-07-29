@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img  height='37px' align='left' style='padding-right:25px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 
-<img height='37px' align='left' style='padding-right:25px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img height='36px' align='left' style='padding-right:25px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 
 <img align='left' alt='bootstrap' height='35px' style='padding-right:25px' src='./assets/icons_skills/bootstrap_color.svg'/>
 
@@ -38,18 +38,19 @@ Here are some ideas to get you started:
 
 <img height='30px' align='left' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-
 <br><br>
 
 `> back-end`
 
-<img align='left' alt='nodeJS' height='30px' style='padding-right:25px' src='./assets/icons_skills/nodejs_color.svg'/>
+<p>
+<img align='left' alt='nodeJS' height='37px' style='padding-right:25px' src='./assets/icons_skills/nodejs_color.svg'/>
 
-<img align='left' alt='express' height='35px' style='padding-right:20px' src='./assets/icons_skills/express_color.svg'/>
+<img align='left' alt='express' height='37px' style='padding-right:20px' src='./assets/icons_skills/express_color.svg'/>
 
-<img align='left' alt='ruby' height='30px' style='padding-right:25px' src='./assets/icons_skills/ruby_color.svg'/>
-
-<img align='left' alt='rails' height='30px' style='padding-right:25px' src='./assets/icons_skills/rails_color.svg'/>
+<img align='left' alt='ruby' height='40px' style='padding-right:25px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
+          
+<img align='left' alt='ruby' height='60px' style='padding-right:25px; margin-top: -12px;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
+</p>
 
 <br><br>
 
