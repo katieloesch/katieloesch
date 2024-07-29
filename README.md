@@ -63,11 +63,11 @@ Projects
 
 <br>
 
-### `> Connect with me`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px' style='padding-right:43px'/></a><a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px' style='padding-right:45px'/></a><a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px' style='padding-right:60px'/></a>
+### `> Connect with me`&nbsp;&nbsp;&nbsp;📫
 
 <br>
 
-To get in touch&nbsp;&nbsp;&nbsp;📫
+To get in touch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
 
 - visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
 - or message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
