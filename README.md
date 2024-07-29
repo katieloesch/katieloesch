@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
  -->
 
-### `> Languages & Tools ` &nbsp;&nbsp; 🛠️
+#### `> Languages & Tools ` &nbsp;&nbsp; 🛠️
 
 <br>
 
@@ -58,7 +58,7 @@ Projects
 
 ---
 
-### `> Connect with me `&nbsp;&nbsp;&nbsp;&nbsp;📫
+#### `> Connect with me `&nbsp;&nbsp;&nbsp;&nbsp;📫
 
 <br>
 
@@ -74,7 +74,7 @@ To get in touch: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 <br>
 
-### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
+#### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
 
 <br>
 
@@ -88,13 +88,58 @@ How to get in touch &nbsp;&nbsp;📫
 
 ---
 
-### `> Projects `&nbsp;&nbsp;&nbsp;&nbsp; :octocat: 📂
+#### `> Projects `&nbsp;&nbsp;&nbsp;&nbsp; :octocat: 📂
 
 <br>
 
 ---
 
-### `> Coding Journey `&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻
+#### `> Stats `&nbsp;&nbsp;&nbsp;&nbsp;📊📈
+
+Gotham
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham)](https://github.com/katieloesch/github-readme-stats)
+
+vue dark
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark)](https://github.com/katieloesch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=vue-dark)](https://github.com/katieloesch/github-readme-stats)
+
+Cobalt
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=cobalt)](https://github.com/katieloesch/github-readme-stats)
+
+transparent
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=transparent)](https://github.com/katieloesch/github-readme-stats)
+
+custom
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark&border_color=3da57a)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=vue-dark&border_color=3da57a)](https://github.com/katieloesch/github-readme-stats)
+
+border_color
+
+accent: #3da57a
+secondary: #2e5355
+
+<!--
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+ -->
+
+<br>
+
+---
+
+#### `> Coding Journey `&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻
 
 #### Background 🧬🔬🧪🧫
 
