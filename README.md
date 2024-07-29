@@ -17,30 +17,9 @@ Here are some ideas to get you started:
 -> interest in AI
 -->
 
+<br>
+
 <p>I'm Katie. I'm a full-stack developer, currently based in London. I'm passionate about designing user-centric applications and building purpose-driven solutions. I'm always looking for opportunities where I can contribute, learn and grow.</p>
-
-<br>
-
----
-
-<br>
-
-### `> Connect with me` &nbsp; 📫
-
-<br>
-
-<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'  style='padding-right:53px'><img src='./assets/portfolio.svg' height='27px'/></a>
-<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer' style='padding-right:60px' align='left'><img src='./assets/linkedin.svg' height='28px'/></a>
-<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='29px' style='padding-right:60px'/></a>
-
-<br>
-
-To get in touch
-
-- visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
-- or message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
-- or [email](mailto:katie.loesch@pm.me) me
-
 <br>
 
 ---
@@ -53,52 +32,10 @@ To get in touch
 - github stats
 - my coding journey
 
-<br><br>
-
----
-
-
-
-
-### Some technologies I like working with
-
-`>` <span style="color:grey;">
-front-end
-
-<img align='left' alt='javascript' height='35px' style='padding-right:30px' src='./assets/icons_skills/javascript_color.svg'/><img  height='37px' align='left' style='padding-right:30px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /><img height='40px' align='left' style='padding-right:30px'  src="./assets/icons_skills/css_color.svg" /><img align='left' alt='bootstrap' height='35px' style='padding-right:30px' src='./assets/icons_skills/bootstrap_color.svg'/><img align='left' alt='sass' height='35px' style='padding-right:25px' src='./assets/icons_skills/sass_color.svg'/><img height='30px' align='left' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-<br><br><br>
-
-`>` back-end
-
-<p>
-<img align='left' alt='nodeJS' height='37px' style='padding-right:30px' src='./assets/icons_skills/nodejs_color.svg'/><img align='left' alt='express' height='37px' style='padding-right:25px' src='./assets/icons_skills/express_color.svg'/><img align='left' alt='ruby' height='40px' style='padding-right:30px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" /><img align='left' alt='ruby' height='34px' style='padding-right:30px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
-
-</p>
-
-<br><br><br>
-
-`>` databases + data management
-
-<img align='left' alt='nodeJS' height='49px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /><img align='left' alt='nodeJS' height='46px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /><img align='left' alt='firebase' height='38px' style='padding-right:30px' src='./assets/icons_skills/firebase_color.svg'/><img align='left' alt='firestore' height='41px' style='padding-right:30px' src='./assets/icons_skills/firestore_color.svg'/><img  align='left' alt='mongoose' height='54px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
-
-<br><br><br>
-
-`>` development tools
-
-<img align='left' alt='git' height='38px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img align='left' alt='github' height='36px' style='padding-right:30px' src='./assets/icons_skills/github_color.svg'/><img align='left' alt='vite' height='35px' style='padding-right:30px' src="./assets/icons_skills/vite_color.svg" /><img align='left' alt='openai' height='39px' style='padding-right:30px' src='./assets/icons_skills/openai_color.svg'/><img align='left' alt='postman' height='36px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
-<br><br><br>
-
-
----
-<br><br><br>
 
  -->
 
 ### `> Languages & Tools` &nbsp; 🛠️
-
-<br>
 
 |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -121,3 +58,19 @@ Projects
 
 
  -->
+
+---
+
+<br>
+
+### `> Connect with me`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px' style='padding-right:43px'/></a><a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px' style='padding-right:45px'/></a><a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px' style='padding-right:60px'/></a>
+
+<br>
+
+To get in touch&nbsp;&nbsp;&nbsp;📫
+
+- visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
+- or message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
+- or [email](mailto:katie.loesch@pm.me) me
+
+<br>
