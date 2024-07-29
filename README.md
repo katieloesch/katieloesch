@@ -9,11 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... python / typescript, linux
 - 👯 I’m looking to collaborate on ... open source projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -> interest in AI
 -->
 
@@ -24,8 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-<br>
-
 <!--
 
 - Blog
@@ -35,7 +28,9 @@ Here are some ideas to get you started:
 
  -->
 
-### `> Languages & Tools` &nbsp; 🛠️
+### `> Languages & Tools ` &nbsp;&nbsp; 🛠️
+
+<br>
 
 |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,6 +38,7 @@ Here are some ideas to get you started:
 | back-end                   | <img align='left' alt='nodeJS' height='37px' style='padding-right:35px' src='./assets/icons_skills/nodejs_color.svg'/><img align='left' alt='express' height='37px' style='padding-right:27px' src='./assets/icons_skills/express_color.svg'/><img align='left' alt='ruby' height='40px' style='padding-right:35px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" /><img align='left' alt='ruby' height='34px' style='padding-right:30px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />                                                                                                                                                                                   |
 | database + data management | <img align='left' alt='nodeJS' height='49px' style='padding-right:19px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /><img align='left' alt='nodeJS' height='44px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /><img align='left' alt='firebase' height='38px' style='padding-right:35px' src='./assets/icons_skills/firebase_color.svg'/><img align='left' alt='firestore' height='41px' style='padding-right:28px' src='./assets/icons_skills/firestore_color.svg'/><img  align='left' alt='mongoose' height='54px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /> |
 | development tools          | <img align='left' alt='git' height='38px' style='padding-right:37px; padding-left: 6px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img align='left' alt='github' height='36px' style='padding-right:35px' src='./assets/icons_skills/github_color.svg'/><img align='left' alt='vite' height='35px' style='padding-right:31px' src="./assets/icons_skills/vite_color.svg" /><img align='left' alt='openai' height='39px' style='padding-right:35px' src='./assets/icons_skills/openai_color.svg'/><img align='left' alt='postman' height='36px' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />                                                                                     |
+| currently learning         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='38px' style='padding-right:37px' align='left' /><img src="./assets/icons_skills/linux.svg" height='38px' style='padding-right:37px' align='left' /><img align='left' alt='openai' height='34px' style='padding-right:35px' src='./assets/icons_skills/typescript.svg'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height='35px' style='padding-right:37px' align='left' />                                                                                                                                                                                                                                                                             |
 
 <!--
 
@@ -58,19 +54,54 @@ Projects
 
 
  -->
+<br>
+
+---
+
+### `> Connect with me `&nbsp;&nbsp;&nbsp;&nbsp;📫
+
+<br>
+
+To get in touch: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
+
+- visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
+- message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
+- [email](mailto:katie.loesch@pm.me) me
+
+<br>
 
 ---
 
 <br>
 
-### `> Connect with me`&nbsp;&nbsp;&nbsp;📫
+### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
 
 <br>
 
-To get in touch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
+How to get in touch &nbsp;&nbsp;📫
 
 - visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
-- or message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
-- or [email](mailto:katie.loesch@pm.me) me
+- message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
+- [email](mailto:katie.loesch@pm.me) me
 
 <br>
+
+---
+
+### `> Projects `&nbsp;&nbsp;&nbsp;&nbsp; :octocat: 📂
+
+<br>
+
+---
+
+### `> Coding Journey `&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻
+
+#### Background 🧬🔬🧪🧫
+
+As a biomedical science graduate, I had the opportunity to work with databases that store genetic data and algorithms for comparing sequence information. This experience sparked my interest in how software and technology can be used to improve and innovate healthcare and medical research.
+
+My interest in coding led me to join the General Assembly software engineering immersive course to secure a solid foundation in programming fundamentals to build upon. I’m currently looking for opportunities to further develop my skills and learn new languages, frameworks and technologies.
+
+#### Interests 👽 🛸 🖖
+
+I'm fascinated by sci-fi books, movies, and TV shows like Star Trek and Black Mirror that have often predicted technological advancements before they became mainstream, such as video calls, mobile phones, wireless headphones, credit cards, solar power and AI.
