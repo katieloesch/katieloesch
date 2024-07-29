@@ -1,13 +1,13 @@
-## Hi there 👋 👩🏻‍🦰
+## Hi there &nbsp; 👋&nbsp;&nbsp;👩🏻‍🦰
 
 <!--
 **katieloesch/katieloesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ... a job application tracker
+- 🌱 I’m currently learning ... python / typescript
+- 👯 I’m looking to collaborate on ... open source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>I'm Katie. I'm a full-stack developer with a background in biomedical science, currently based in London. I'm passionate about designing user-centric applications and building purpose-driven solutions. I'm always looking for opportunities where I can contribute, learn and grow.</p>
 <br>
 
-### Connect with me
+### 📫 &nbsp; `Connect with me` &nbsp; 📫
 
 - portfolio website: [katieloesch.co.uk](https://katieloesch.co.uk/)
 - LinkedIn: [in/katie-loesch](https://www.linkedin.com/in/katie-loesch/)
@@ -72,7 +72,7 @@ front-end
 
  -->
 
-### Languages & Tools &nbsp; 🛠️
+### 🛠️&nbsp; `Languages & Tools` &nbsp; 🛠️
 
 |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
