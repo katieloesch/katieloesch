@@ -17,17 +17,6 @@ Here are some ideas to get you started:
 <p>I'm Katie. I'm a full-stack developer, currently based in London. I'm passionate about designing user-centric applications and building purpose-driven solutions. I'm always looking for opportunities where I can contribute, learn and grow.</p>
 <br>
 
----
-
-<!--
-
-- Blog
-- github stats
-- my coding journey
-
-
- -->
-
 #### `> Languages & Tools ` &nbsp;&nbsp; 🛠️
 
 <br>
@@ -39,6 +28,48 @@ Here are some ideas to get you started:
 | database + data management | <img align='left' alt='nodeJS' height='49px' style='padding-right:19px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /><img align='left' alt='nodeJS' height='44px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" /><img align='left' alt='firebase' height='38px' style='padding-right:35px' src='./assets/icons_skills/firebase_color.svg'/><img align='left' alt='firestore' height='41px' style='padding-right:28px' src='./assets/icons_skills/firestore_color.svg'/><img  align='left' alt='mongoose' height='54px' style='padding-right:30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /> |
 | development tools          | <img align='left' alt='git' height='38px' style='padding-right:37px; padding-left: 6px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img align='left' alt='github' height='36px' style='padding-right:35px' src='./assets/icons_skills/github_color.svg'/><img align='left' alt='vite' height='35px' style='padding-right:31px' src="./assets/icons_skills/vite_color.svg" /><img align='left' alt='openai' height='39px' style='padding-right:35px' src='./assets/icons_skills/openai_color.svg'/><img align='left' alt='postman' height='36px' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />                                                                                     |
 | currently learning         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='38px' style='padding-right:37px' align='left' /><img src="./assets/icons_skills/linux.svg" height='38px' style='padding-right:37px' align='left' /><img align='left' alt='openai' height='34px' style='padding-right:35px' src='./assets/icons_skills/typescript.svg'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height='35px' style='padding-right:37px' align='left' />                                                                                                                                                                                                                                                                             |
+
+#### `> Stats `&nbsp;&nbsp;&nbsp;📊
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used)](https://github.com/katieloesch/github-readme-stats)
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=e4b7cd)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+
+icons
+yellow - e2dcaa
+pink - e4b7cd
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used)](https://github.com/katieloesch/github-readme-stats)
+
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=e4b7cd)](https://github.com/anuraghazra/github-readme-stats)
+
+ -->
+
+<br>
+
+---
+
+#### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
+
+<br>
+
+How to get in touch &nbsp;&nbsp;📫
+
+- visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
+- message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
+- [email](mailto:katie.loesch@pm.me) me
+
+<br>
+
+---
+
+#### `> Projects `&nbsp;&nbsp;&nbsp; :octocat:
+
+<br>
 
 <!--
 
@@ -54,58 +85,6 @@ Projects
 
 
  -->
-
----
-
-#### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
-
-<br>
-
-How to get in touch &nbsp;&nbsp;📫
-
-- visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
-- message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
-- [email](mailto:katie.loesch@pm.me) me
-
-<br>
-
----
-
-#### `> Projects `&nbsp;&nbsp;&nbsp;:octocat:
-
-<br>
-
----
-
-#### `> Stats `&nbsp;&nbsp;&nbsp;&nbsp;📈
-
-Gotham
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham)](https://github.com/katieloesch/github-readme-stats)
-
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-custom
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=1c4c40&border_radius=10&card_width=465)](https://github.com/katieloesch/github-readme-stats)
-
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326d5f&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false)](https://github.com/anuraghazra/github-readme-stats)
-
-border_color
-
-accent: 279278
-secondary: 15342f
-1c4c40
-
-<!--
-
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
- -->
-
-<br>
 
 ---
 
