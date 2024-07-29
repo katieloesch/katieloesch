@@ -54,25 +54,8 @@ Projects
 
 
  -->
-<br>
 
 ---
-
-#### `> Connect with me `&nbsp;&nbsp;&nbsp;&nbsp;📫
-
-<br>
-
-To get in touch: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
-
-- visit my [portfolio website](https://katieloesch.co.uk/) and leave me a message there, I'm always happy to get feedback
-- message me on [LinkedIn](https://www.linkedin.com/in/katie-loesch/)
-- [email](mailto:katie.loesch@pm.me) me
-
-<br>
-
----
-
-<br>
 
 #### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
 
@@ -88,44 +71,31 @@ How to get in touch &nbsp;&nbsp;📫
 
 ---
 
-#### `> Projects `&nbsp;&nbsp;&nbsp;&nbsp; :octocat: 📂
+#### `> Projects `&nbsp;&nbsp;&nbsp;:octocat:
 
 <br>
 
 ---
 
-#### `> Stats `&nbsp;&nbsp;&nbsp;&nbsp;📊📈
+#### `> Stats `&nbsp;&nbsp;&nbsp;&nbsp;📈
 
 Gotham
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham)](https://github.com/katieloesch/github-readme-stats)
 
-vue dark
-
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark)](https://github.com/katieloesch/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=vue-dark)](https://github.com/katieloesch/github-readme-stats)
-
-Cobalt
-
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=cobalt)](https://github.com/katieloesch/github-readme-stats)
-
-transparent
-
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=transparent)](https://github.com/katieloesch/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 custom
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark&border_color=3da57a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=1c4c40&border_radius=10&card_width=465)](https://github.com/katieloesch/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=vue-dark&border_color=3da57a)](https://github.com/katieloesch/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326d5f&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false)](https://github.com/anuraghazra/github-readme-stats)
 
 border_color
 
-accent: #3da57a
-secondary: #2e5355
+accent: 279278
+secondary: 15342f
+1c4c40
 
 <!--
 
