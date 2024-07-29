@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <img align='left' alt='ruby' height='40px' style='padding-right:25px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
           
-<img align='left' alt='ruby' height='60px' style='padding-right:25px; margin-top: -12px;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
+<img align='left' alt='ruby' height='60px' style='padding-right:25px; padding-bottom: 10px;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
 </p>
 
 <br><br>
