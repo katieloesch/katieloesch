@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 
 ---
 
-#### 👩‍💻 Some technologies I like working with
+#### <img src='./assets/cli.svg'/>Some technologies I like working with
 
-`>` <span style="color:grey; font-size: 15px; font-family: georgia">
-front-end &emsp;**********************\_\_**********************
-</span>
+`>` <span style="color:grey;">
+front-end
 
 <img align='left' alt='javascript' height='35px' style='padding-right:25px' src='./assets/icons_skills/javascript_color.svg'/>
 
@@ -42,7 +41,7 @@ front-end &emsp;**********************\_\_**********************
 
 <br><br>
 
-`>` back-end&emsp;**********************\_\_**********************
+`>` back-end
 
 <p>
 <img align='left' alt='nodeJS' height='37px' style='padding-right:25px' src='./assets/icons_skills/nodejs_color.svg'/>
@@ -62,7 +61,6 @@ front-end &emsp;**********************\_\_**********************
 <img align='left' alt='nodeJS' height='49px' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 
 <img align='left' alt='nodeJS' height='46px' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-
 
 <img align='left' alt='firebase' height='38px' style='padding-right:25px' src='./assets/icons_skills/firebase_color.svg'/>
 
