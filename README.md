@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 | development tools          | <img align='left' alt='git' height='38px' style='padding-right:37px; padding-left: 6px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img align='left' alt='github' height='36px' style='padding-right:35px' src='./assets/icons_skills/github_color.svg'/><img align='left' alt='vite' height='35px' style='padding-right:31px' src="./assets/icons_skills/vite_color.svg" /><img align='left' alt='openai' height='39px' style='padding-right:35px' src='./assets/icons_skills/openai_color.svg'/><img align='left' alt='postman' height='36px' style='padding-right:25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />                                                                                     |
 | currently learning         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='38px' style='padding-right:37px' align='left' /><img src="./assets/icons_skills/linux.svg" height='38px' style='padding-right:37px' align='left' /><img align='left' alt='openai' height='34px' style='padding-right:35px' src='./assets/icons_skills/typescript.svg'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height='35px' style='padding-right:37px' align='left' />                                                                                                                                                                                                                                                                             |
 
+<br>
+
 #### `> Stats `&nbsp;&nbsp;&nbsp;📊
 
 <br>
@@ -53,7 +55,7 @@ pink - e4b7cd
 
 ---
 
-#### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
+#### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
 
 <br>
 
@@ -90,7 +92,7 @@ Projects
 
 #### `> Coding Journey `&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻
 
-#### Background 🧬🔬🧪🧫
+#### Background 🧬🔬🧪
 
 As a biomedical science graduate, I had the opportunity to work with databases that store genetic data and algorithms for comparing sequence information. This experience sparked my interest in how software and technology can be used to improve and innovate healthcare and medical research.
 
