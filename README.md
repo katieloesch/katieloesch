@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used)](https://github.com/katieloesch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=040324)](https://github.com/katieloesch/github-readme-stats)
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=e4b7cd)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=040324)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
@@ -45,7 +45,9 @@ icons
 yellow - e2dcaa
 pink - e4b7cd
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used)](https://github.com/katieloesch/github-readme-stats)
+&bg_color=001332
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10)](https://github.com/katieloesch/github-readme-stats)
 
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=e4b7cd)](https://github.com/anuraghazra/github-readme-stats)
 
