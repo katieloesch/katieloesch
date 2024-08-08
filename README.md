@@ -1,17 +1,5 @@
 ## Hi there &nbsp; 👋&nbsp;&nbsp;👩🏻‍🦰
 
-<!--
-**katieloesch/katieloesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... a job application tracker
-- 🌱 I’m currently learning ... python / typescript, linux
-- 👯 I’m looking to collaborate on ... open source projects
-- 🤔 I’m looking for help with ...
--> interest in AI
--->
-
 <br>
 
 <p>I'm Katie. I'm a full-stack developer, currently based in London. I'm passionate about designing user-centric applications and building purpose-driven solutions. I'm always looking for opportunities where I can contribute, learn and grow.</p>
@@ -75,9 +63,9 @@ How to get in touch &nbsp;&nbsp;📫
 
 <br>
 
-## <!--
-
 #### `> Projects :octocat:`
+
+ <!--
 
 <br>
 
