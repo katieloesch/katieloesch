@@ -25,11 +25,11 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=081a30)](https://github.com/katieloesch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=0d1a30)](https://github.com/katieloesch/github-readme-stats)
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=081a30)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=0d1a30)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=katieloesch&theme=gotham&border_radius=10&card_width=465&stroke=326e60&background=081a30&border=326e60&fire=ec9fc7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=katieloesch&theme=gotham&border_radius=10&card_width=465&stroke=326e60&background=0d1a30&border=326e60&fire=ec9fc7)](https://git.io/streak-stats)
 
 <!--
 
