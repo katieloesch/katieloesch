@@ -7,11 +7,14 @@
 
 <br>
 
+<!--
 ### 🛠️&nbsp;&nbsp;&nbsp;Languages & Tools
+
+ -->
 
 <br>
 
-|                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| &nbsp;🛠️                   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | front-end                  | <img align='left' alt='javascript' height='35px' style='padding-right:35px' src='./assets/icons_skills/javascript_color.svg'/><img  height='37px' align='left' style='padding-right:35px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /><img height='40px' align='left' style='padding-right:35px'  src="./assets/icons_skills/css_color.svg" /><img align='left' alt='bootstrap' height='33px' style='padding-right:35px' src='./assets/icons_skills/bootstrap_color.svg'/><img align='left' alt='sass' height='33px' style='padding-right:23px' src='./assets/icons_skills/sass_color.svg'/><img height='31px' align='left' style='padding-right:5px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  |
 | back-end                   | <img align='left' alt='nodeJS' height='37px' style='padding-right:35px' src='./assets/icons_skills/nodejs_color.svg'/><img align='left' alt='express' height='37px' style='padding-right:27px' src='./assets/icons_skills/express_color.svg'/><img align='left' alt='ruby' height='40px' style='padding-right:35px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" /><img align='left' alt='ruby' height='34px' style='padding-right:30px;  margin-top: -3px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />                                                                                                                                                                                   |
@@ -25,19 +28,13 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=0d1a30)](https://github.com/katieloesch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=0c1829)](https://github.com/katieloesch/github-readme-stats)
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=0d1a30)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=0c1829)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=katieloesch&theme=gotham&border_radius=10&card_width=465&stroke=326e60&background=0d1a30&border=326e60&fire=ec9fc7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=katieloesch&theme=gotham&border_radius=10&card_width=465&stroke=326e60&background=0c1829&border=326e60&fire=ec9fc7)](https://git.io/streak-stats)
 
 <!--
-
-icons
-yellow - e2dcaa
-pink - e4b7cd
-
-&bg_color=001332
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=040324)](https://github.com/katieloesch/github-readme-stats)
 
