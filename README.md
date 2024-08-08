@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p>I'm Katie. I'm a full-stack developer, currently based in London. I'm passionate about designing user-centric applications and building purpose-driven solutions. I'm always looking for opportunities where I can contribute, learn and grow.</p>
 <br>
 
-#### `> Languages & Tools ` &nbsp;&nbsp; 🛠️
+#### `> Languages & Tools 🛠️ `
 
 <br>
 
@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 
 <br>
 
-#### `> Stats `&nbsp;&nbsp;&nbsp;📊
+#### `> Stats 📊 `
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=040324)](https://github.com/katieloesch/github-readme-stats)
 
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=040324)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=katieloesch&theme=gotham&border_radius=10&card_width=465&stroke=326e60&background=040324&border=326e60&fire=ec9fc7)](https://git.io/streak-stats)
 
 <!--
 
@@ -51,11 +53,15 @@ pink - e4b7cd
 
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=e4b7cd)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="http://www.github.com/katieloesch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=katieloesch&stroke=ffffff&background=040324&ring=326e60&fire=326e60&currStreakNum=ffffff&currStreakLabel=326e60&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=326e60&border_radius=10&text_bold=false" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=katieloesch)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=katieloesch&theme=tokyonight&margin-w=15&title=-Stars,-Followers,-Reviews)
+
  -->
 
 <br>
-
----
 
 #### `> Connect with me ` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a>
 
@@ -69,13 +75,11 @@ How to get in touch &nbsp;&nbsp;📫
 
 <br>
 
----
+## <!--
 
-#### `> Projects `&nbsp;&nbsp;&nbsp; :octocat:
+#### `> Projects :octocat:`
 
 <br>
-
-<!--
 
 Projects
 
@@ -86,20 +90,16 @@ Projects
 - pet job board
 - portfolio website
 
+  -->
 
+#### `> Coding Journey 👩‍💻`
 
- -->
-
----
-
-#### `> Coding Journey `&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻
-
-#### Background 🧬🔬🧪
+#### 🧬&nbsp; Background
 
 As a biomedical science graduate, I had the opportunity to work with databases that store genetic data and algorithms for comparing sequence information. This experience sparked my interest in how software and technology can be used to improve and innovate healthcare and medical research.
 
 My interest in coding led me to join the General Assembly software engineering immersive course to secure a solid foundation in programming fundamentals to build upon. I’m currently looking for opportunities to further develop my skills and learn new languages, frameworks and technologies.
 
-#### Interests 👽 🛸 🖖
+#### 🛸 &nbsp;Interests
 
 I'm fascinated by sci-fi books, movies, and TV shows like Star Trek and Black Mirror that have often predicted technological advancements before they became mainstream, such as video calls, mobile phones, wireless headphones, credit cards, solar power and AI.
