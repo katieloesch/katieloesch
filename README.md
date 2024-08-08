@@ -2,18 +2,12 @@
 
 <br>
 
-<p>I'm Katie. I'm a full-stack developer, currently based in London. </p>
+<p>I'm Katie. I'm a full-stack developer, currently based in London.&nbsp; 🇬🇧 </p>
 <p> I'm always looking for opportunities where I can contribute, learn and grow. &nbsp; 🌱</p>
 
 <br>
 
-| Connect with me &nbsp;&nbsp;📫                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a> |
-
-<br>
-
-#### `> Languages & Tools 🛠️ `
+### 🛠️&nbsp;&nbsp;&nbsp;Languages & Tools
 
 <br>
 
@@ -27,15 +21,15 @@
 
 <br>
 
-#### `> Stats 📊 `
+### 📊&nbsp;&nbsp;&nbsp;Stats
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=040324)](https://github.com/katieloesch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katieloesch&layout=compact&theme=gotham&border_color=326e60&border_radius=10&card_width=465&custom_title=Most%20Used&langs_count=10&bg_color=081a30)](https://github.com/katieloesch/github-readme-stats)
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=040324)](https://github.com/anuraghazra/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katieloesch&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true&theme=gotham&border_color=326e60&border_radius=10&line_height=33&custom_title=GitHub%20Stats&text_bold=false&icon_color=ec9fc7&bg_color=081a30)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=katieloesch&theme=gotham&border_radius=10&card_width=465&stroke=326e60&background=040324&border=326e60&fire=ec9fc7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=katieloesch&theme=gotham&border_radius=10&card_width=465&stroke=326e60&background=081a30&border=326e60&fire=ec9fc7)](https://git.io/streak-stats)
 
 <!--
 
@@ -55,6 +49,12 @@ pink - e4b7cd
 ![trophy](https://github-profile-trophy.vercel.app/?username=katieloesch&theme=tokyonight&margin-w=15&title=-Stars,-Followers,-Reviews)
 
  -->
+
+<br>
+
+| Connect with me &nbsp;&nbsp;📫                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href='https://katieloesch.co.uk/' target='_blank' rel='noopener noreerrer' align='left'><img src='./assets/portfolio.svg' height='23px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/katie-loesch/' target='_blank' rel='noopener noreerrer'  align='left'><img src='./assets/linkedin.svg' height='24px'/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='mailto:katie.loesch@pm.me' align='left' ><img src='./assets/mail.svg' height='25px'/></a> |
 
 <br>
 
