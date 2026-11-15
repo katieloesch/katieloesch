@@ -2,8 +2,13 @@
 
 <br>
 
-<p>I'm Katie. I'm a graduate developer, currently based in Cambridge.&nbsp; 🇬🇧 </p>
-<p> I'm always looking for opportunities where I can contribute, learn and grow. &nbsp; 🌱</p>
+<p>I'm Katie. I'm a Graduate Software Developer at Aveva, based in Cambridge. &nbsp;🇬🇧 </p>
+
+<p>
+My background is in biomedical science. 🧬 <br></br>My interest in software engineering began through working with genetic databases and sequence analysis algorithms, where I discovered the potential of technology to solve complex problems.
+This inspired me to complete General Assembly’s Software Engineering Immersive.
+</p>
+<p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative impactful projects. 🌱</p>
 
 <br>
 
