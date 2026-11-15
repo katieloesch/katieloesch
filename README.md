@@ -8,7 +8,7 @@
 My background is in biomedical science. 🧬 <br></br>My interest in software engineering began through working with genetic databases and sequence analysis algorithms, where I discovered the potential of technology to solve complex problems.
 This inspired me to complete General Assembly’s Software Engineering Immersive.
 </p>
-<p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative impactful projects. 🌱</p>
+<p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative and impactful projects. 🌱</p>
 
 <br>
 
@@ -26,6 +26,12 @@ This inspired me to complete General Assembly’s Software Engineering Immersive
   <tr><td><strong>Currently Learning</strong></td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/></td></tr>
 </tbody>
 </table>
+
+<br>
+
+### 📫&nbsp;&nbsp;&nbsp;Connect with me
+
+<a href="https://www.linkedin.com/in/katie-loesch" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:katie.loesch@pm.me"><img src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000" alt="email" width="40" height="40"></a>
 
 <!--
 <br>
