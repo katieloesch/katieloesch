@@ -1,21 +1,16 @@
 ## Hello World &nbsp; 👋🏻
 
-<br>
+<p>I'm Katie. I'm a software developer based in Cambridge, UK. &nbsp;🇬🇧 </p>
 
-<p>I'm Katie. I'm a Graduate Software Developer at Aveva, based in Cambridge. &nbsp;🇬🇧 </p>
+<p>My background is in biomedical science. 🧬 <br>My interest in software engineering began while working with genetic databases and sequence analysis algorithms. Seeing how technology could solve complex problems sparked my curiosity and led me to complete General Assembly’s Software Engineering Immersive.&nbsp;👩‍💻</p>
 
-<p>
-My background is in biomedical science. 🧬 <br></br>My interest in software engineering began through working with genetic databases and sequence analysis algorithms, where I discovered the potential of technology to solve complex problems.
-This inspired me to complete General Assembly’s Software Engineering Immersive.
-</p>
-<p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative and impactful projects. 🌱</p>
+<p>I’m currently an R&D Member of Technical Staff I at <a href="https://www.aveva.com/en/" target="_blank" rel="noopener noreferrer">Aveva</a>, working primarily with C#, Angular, Node.js and AWS, gaining experience across frontend and backend development, as well as cloud technologies.&nbsp;☁️</p>
 
-<br>
+<p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative and impactful projects.&nbsp;🌱</p><br>
 
 ### 🛠️&nbsp;&nbsp;&nbsp;Languages & Tools
 
 <br>
-
 <table>
 <tbody>
   <tr><td><strong>Frontend</strong></td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/></td></tr>
@@ -26,12 +21,11 @@ This inspired me to complete General Assembly’s Software Engineering Immersive
   <tr><td><strong>Currently Learning</strong></td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="35" height="35" style="vertical-align:middle; margin-right:0; margin-left:0;"/></td></tr>
 </tbody>
 </table>
-
 <br>
 
 ### 📫&nbsp;&nbsp;&nbsp;Connect with me
 
-<a href="https://katieloesch.co.uk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" alt="portfolio" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/katie-loesch" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:katie.loesch@pm.me"><img src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000" alt="email" width="40" height="40"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://katieloesch.co.uk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" alt="portfolio" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/katie-loesch" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:katie.loesch@pm.me"><img src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000" alt="email" width="40" height="40"></a>
 
 <!--
 <br>
