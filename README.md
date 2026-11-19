@@ -4,7 +4,7 @@
 
 <p>My background is in biomedical science. 🧬 <br>My interest in software engineering began while working with genetic databases and sequence analysis algorithms. Seeing how technology could solve complex problems sparked my curiosity and led me to complete General Assembly’s Software Engineering Immersive.&nbsp;👩‍💻</p>
 
-<p>I’m currently an R&D Member of Technical Staff I at <a href=""https://www.aveva.com/en/"" target="_blank" rel="noopener noreferrer">Aveva</a>, working primarily with C#, Angular, Node.js and AWS, gaining experience across frontend and backend development, as well as cloud technologies.&nbsp;☁️</p>
+<p>I’m currently an R&D Member of Technical Staff I at <a href="https://www.aveva.com/en/" target="_blank" rel="noopener noreferrer">Aveva</a>, working primarily with C#, Angular, Node.js and AWS, gaining experience across frontend and backend development, as well as cloud technologies.&nbsp;☁️</p>
 
 <p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative and impactful projects.&nbsp;🌱</p>
 
