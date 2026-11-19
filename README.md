@@ -6,11 +6,9 @@
 
 <p>I’m currently an R&D Member of Technical Staff I at <a href="https://www.aveva.com/en/" target="_blank" rel="noopener noreferrer">Aveva</a>, working primarily with C#, Angular, Node.js and AWS, gaining experience across frontend and backend development, as well as cloud technologies.&nbsp;☁️</p>
 
-<p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative and impactful projects.&nbsp;🌱</p>
+<p> I'm passionate about continuous learning, exploring new tech and growing my skills to contribute to innovative and impactful projects.&nbsp;🌱</p><br>
 
 ### 🛠️&nbsp;&nbsp;&nbsp;Languages & Tools
-
-<br>
 
 <table>
 <tbody>
@@ -22,6 +20,7 @@
   <tr><td><strong>Currently Learning</strong></td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40" style="vertical-align:middle; margin-right:0; margin-left:0;"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="35" height="35" style="vertical-align:middle; margin-right:0; margin-left:0;"/></td></tr>
 </tbody>
 </table>
+<br>
 
 ### 📫&nbsp;&nbsp;&nbsp;Connect with me
 
