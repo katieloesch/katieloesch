@@ -25,7 +25,7 @@
 
 ### 📫&nbsp;&nbsp;&nbsp;Connect with me
 
-&nbsp;&nbsp;&nbsp;<a href="https://katieloesch.co.uk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" alt="portfolio" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/katie-loesch" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:katie.loesch@pm.me"><img src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000" alt="email" width="40" height="40"></a>
+&nbsp;&nbsp;<a href="https://katieloesch.co.uk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" alt="portfolio" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/katie-loesch" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:katie.loesch@pm.me"><img src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000" alt="email" width="40" height="40"></a>
 
 <!--
 <br>
